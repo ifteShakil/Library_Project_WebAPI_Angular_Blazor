@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewmodel ="clr-namespace:Library_MAUI_R53.ViewModels"
+             x:Class="Library_MAUI_R53.Views.PublisherViewPage"
+             x:DataType="viewmodel:PublisherViewModel"
+             xmlns:model="clr-namespace:Library_MAUI_R53.Models"
+             Title="{Binding Title}">
+
+
+
+    <Grid ColumnDefinitions=".50*,.50*" RowDefinitions="*" HorizontalOptions="Center">
+        <CollectionView ItemsSource="{Binding Publishers}">
+            <CollectionView.ItemTemplate>
+                <DataTemplate x:DataType="model:Publisher">
+                    <Frame CornerRadius="7">
+                        <VerticalStackLayout>
+                            <Label Text="{Binding PublisherId}"></Label>
+                            <Label Text="{Binding PublisherName}"></Label>
+                            <Label Text="{Binding Address}"></Label>
+                            <Label Text="{Binding Email}"></Label>
+                            <Label Text="{Binding PhoneNumber}"></Label>
+                            <Label Text="{Binding IsActive}"></Label>
+                        </VerticalStackLayout>
+                    </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </Grid>
+
+
+
+
+
+
+
+
+        <!--<VerticalStackLayout>
+        <Label 
+            Text="Welcome to .NET MAUI!"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+    </VerticalStackLayout>-->
+</ContentPage>

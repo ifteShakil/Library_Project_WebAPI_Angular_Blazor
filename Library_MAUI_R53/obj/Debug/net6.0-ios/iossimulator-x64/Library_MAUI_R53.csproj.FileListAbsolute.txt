@@ -1,0 +1,792 @@
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Library_MAUI_R53.runtimeconfig.json
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Library_MAUI_R53.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Library_MAUI_R53.pdb
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\CommunityToolkit.Mvvm.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Extensions.DependencyInjection.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Extensions.Http.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Extensions.Logging.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Extensions.Options.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Extensions.Primitives.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Maui.Graphics.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\MvvmHelpers.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Syncfusion.Licensing.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Syncfusion.Maui.Core.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.CSharp.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.VisualBasic.Core.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.VisualBasic.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Win32.Primitives.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Win32.Registry.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.AppContext.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Buffers.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Collections.Concurrent.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Collections.Immutable.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Collections.NonGeneric.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Collections.Specialized.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Collections.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.ComponentModel.Annotations.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.ComponentModel.DataAnnotations.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.ComponentModel.EventBasedAsync.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.ComponentModel.Primitives.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.ComponentModel.TypeConverter.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.ComponentModel.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Configuration.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Console.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Core.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Data.Common.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Data.DataSetExtensions.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Data.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Diagnostics.Contracts.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Diagnostics.Debug.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Diagnostics.DiagnosticSource.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Diagnostics.FileVersionInfo.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Diagnostics.Process.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Diagnostics.StackTrace.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Diagnostics.TextWriterTraceListener.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Diagnostics.Tools.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Diagnostics.TraceSource.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Diagnostics.Tracing.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Drawing.Primitives.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Drawing.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Dynamic.Runtime.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Formats.Asn1.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Globalization.Calendars.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Globalization.Extensions.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Globalization.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.IO.Compression.Brotli.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.IO.Compression.FileSystem.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.IO.Compression.ZipFile.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.IO.Compression.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.IO.FileSystem.AccessControl.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.IO.FileSystem.DriveInfo.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.IO.FileSystem.Primitives.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.IO.FileSystem.Watcher.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.IO.FileSystem.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.IO.IsolatedStorage.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.IO.MemoryMappedFiles.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.IO.Pipes.AccessControl.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.IO.Pipes.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.IO.UnmanagedMemoryStream.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.IO.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Linq.Expressions.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Linq.Parallel.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Linq.Queryable.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Linq.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Memory.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.Http.Json.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.Http.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.HttpListener.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.Mail.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.NameResolution.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.NetworkInformation.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.Ping.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.Primitives.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.Quic.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.Requests.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.Security.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.ServicePoint.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.Sockets.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.WebClient.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.WebHeaderCollection.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.WebProxy.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.WebSockets.Client.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.WebSockets.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Numerics.Vectors.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Numerics.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.ObjectModel.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Private.DataContractSerialization.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Private.Uri.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Private.Xml.Linq.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Private.Xml.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Reflection.DispatchProxy.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Reflection.Emit.ILGeneration.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Reflection.Emit.Lightweight.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Reflection.Emit.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Reflection.Extensions.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Reflection.Metadata.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Reflection.Primitives.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Reflection.TypeExtensions.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Reflection.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Resources.Reader.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Resources.ResourceManager.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Resources.Writer.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Runtime.CompilerServices.Unsafe.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Runtime.CompilerServices.VisualC.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Runtime.Extensions.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Runtime.Handles.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Runtime.InteropServices.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Runtime.Intrinsics.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Runtime.Loader.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Runtime.Numerics.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Runtime.Serialization.Formatters.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Runtime.Serialization.Json.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Runtime.Serialization.Primitives.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Runtime.Serialization.Xml.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Runtime.Serialization.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Runtime.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Security.AccessControl.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Security.Claims.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Security.Cryptography.Algorithms.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Security.Cryptography.Cng.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Security.Cryptography.Csp.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Security.Cryptography.Encoding.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Security.Cryptography.OpenSsl.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Security.Cryptography.Primitives.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Security.Cryptography.X509Certificates.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Security.Principal.Windows.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Security.Principal.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Security.SecureString.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Security.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.ServiceModel.Web.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.ServiceProcess.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Text.Encoding.CodePages.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Text.Encoding.Extensions.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Text.Encoding.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Text.Encodings.Web.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Text.Json.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Text.RegularExpressions.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Threading.Channels.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Threading.Overlapped.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Threading.Tasks.Dataflow.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Threading.Tasks.Extensions.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Threading.Tasks.Parallel.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Threading.Tasks.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Threading.Thread.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Threading.ThreadPool.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Threading.Timer.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Threading.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Transactions.Local.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Transactions.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.ValueTuple.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Web.HttpUtility.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Web.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Windows.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Xml.Linq.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Xml.ReaderWriter.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Xml.Serialization.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Xml.XDocument.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Xml.XPath.XDocument.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Xml.XPath.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Xml.XmlDocument.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Xml.XmlSerializer.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Xml.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\WindowsBase.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\mscorlib.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\netstandard.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Maui.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Maui.Controls.Compatibility.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Maui.Controls.Xaml.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Maui.Controls.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Maui.Essentials.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.iOS.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Private.CoreLib.dll
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\icudt.dat
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\icudt_CJK.dat
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\icudt_EFIGS.dat
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\icudt_no_CJK.dat
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libSystem.IO.Compression.Native.a
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libSystem.IO.Compression.Native.dylib
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libSystem.Native.a
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libSystem.Native.dylib
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libSystem.Net.Security.Native.a
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libSystem.Net.Security.Native.dylib
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libSystem.Security.Cryptography.Native.Apple.a
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libSystem.Security.Cryptography.Native.Apple.dylib
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libicudata.a
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libicui18n.a
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libicuuc.a
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libmono-component-debugger-static.a
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libmono-component-debugger-stub-static.a
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libmono-component-debugger.dylib
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libmono-component-diagnostics_tracing-static.a
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libmono-component-diagnostics_tracing-stub-static.a
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libmono-component-diagnostics_tracing.dylib
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libmono-component-hot_reload-static.a
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libmono-component-hot_reload-stub-static.a
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libmono-component-hot_reload.dylib
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libmonosgen-2.0.a
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libmonosgen-2.0.dylib
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.iOS.registrar.a
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libextension-dotnet.a
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libxamarin-dotnet-debug.a
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libxamarin-dotnet-debug.dylib
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libxamarin-dotnet.a
+E:\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libxamarin-dotnet.dylib
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\build-signature\signature
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\mauiimage.inputs
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\mauifont.inputs
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\mauisplash.inputs
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\sp\MauiSplash.storyboard
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\mauisplash.stamp
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@2x.png
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@3x.png
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@2x.png
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@3x.png
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@2x.png
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@3x.png
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@2x.png
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@3x.png
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon76x76@2x.png
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon83.5x83.5@2x.png
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appiconItunesArtwork.png
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\Contents.json
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot.png
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@2x.png
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@3x.png
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\splash.png
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\splash@2x.png
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\splash@3x.png
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\mauiimage.stamp
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\f\MauiInfo.plist
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\mauifont.stamp
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\f\OpenSans-Regular.ttf
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\f\OpenSans-Semibold.ttf
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\actool\_PartialAppManifest.items
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\actool\_BundleResourceWithLogicalName.items
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\actool\_ProcessedImageAssetsPath.items
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\ibtool\_BundleResourceWithLogicalName.items
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\ibtool\_ProcessedInterfaceDefinitionsPath.items
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\coremlc\_PartialAppManifest.items
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\coremlc\_BundleResourceWithLogicalName.items
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\coremlc\_ProcessedCoreMLModelsPath.items
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\_ProcessedBundleResourcesPath.items
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\_ProcessedContentPath.items
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\Library_MAUI_R53.csproj.AssemblyReference.cache
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\Library_MAUI_R53.GeneratedMSBuildEditorConfig.editorconfig
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\Library_MAUI_R53.AssemblyInfoInputs.cache
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\Library_MAUI_R53.AssemblyInfo.cs
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\Library_MAUI_R53.csproj.CoreCompileInputs.cache
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\XamlC.stamp
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\Library_MAUI_R53.csproj.CopyComplete
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\Library_MAUI_R53.dll
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\refint\Library_MAUI_R53.dll
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\Library_MAUI_R53.pdb
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\Library_MAUI_R53.genruntimeconfig.cache
+E:\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\ref\Library_MAUI_R53.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Library_MAUI_R53.runtimeconfig.json
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Library_MAUI_R53.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Library_MAUI_R53.pdb
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\CommunityToolkit.Mvvm.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Extensions.DependencyInjection.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Extensions.Http.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Extensions.Logging.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Extensions.Logging.Abstractions.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Extensions.Options.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Extensions.Primitives.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Maui.Graphics.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\MvvmHelpers.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Syncfusion.Licensing.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Syncfusion.Maui.Core.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.CSharp.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.VisualBasic.Core.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.VisualBasic.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Win32.Primitives.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Win32.Registry.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.AppContext.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Buffers.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Collections.Concurrent.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Collections.Immutable.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Collections.NonGeneric.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Collections.Specialized.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Collections.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.ComponentModel.Annotations.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.ComponentModel.DataAnnotations.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.ComponentModel.EventBasedAsync.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.ComponentModel.Primitives.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.ComponentModel.TypeConverter.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.ComponentModel.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Configuration.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Console.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Core.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Data.Common.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Data.DataSetExtensions.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Data.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Diagnostics.Contracts.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Diagnostics.Debug.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Diagnostics.DiagnosticSource.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Diagnostics.FileVersionInfo.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Diagnostics.Process.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Diagnostics.StackTrace.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Diagnostics.TextWriterTraceListener.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Diagnostics.Tools.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Diagnostics.TraceSource.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Diagnostics.Tracing.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Drawing.Primitives.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Drawing.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Dynamic.Runtime.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Formats.Asn1.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Globalization.Calendars.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Globalization.Extensions.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Globalization.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.IO.Compression.Brotli.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.IO.Compression.FileSystem.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.IO.Compression.ZipFile.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.IO.Compression.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.IO.FileSystem.AccessControl.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.IO.FileSystem.DriveInfo.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.IO.FileSystem.Primitives.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.IO.FileSystem.Watcher.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.IO.FileSystem.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.IO.IsolatedStorage.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.IO.MemoryMappedFiles.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.IO.Pipes.AccessControl.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.IO.Pipes.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.IO.UnmanagedMemoryStream.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.IO.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Linq.Expressions.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Linq.Parallel.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Linq.Queryable.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Linq.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Memory.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.Http.Json.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.Http.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.HttpListener.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.Mail.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.NameResolution.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.NetworkInformation.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.Ping.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.Primitives.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.Quic.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.Requests.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.Security.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.ServicePoint.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.Sockets.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.WebClient.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.WebHeaderCollection.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.WebProxy.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.WebSockets.Client.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.WebSockets.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Numerics.Vectors.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Numerics.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.ObjectModel.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Private.DataContractSerialization.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Private.Uri.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Private.Xml.Linq.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Private.Xml.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Reflection.DispatchProxy.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Reflection.Emit.ILGeneration.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Reflection.Emit.Lightweight.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Reflection.Emit.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Reflection.Extensions.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Reflection.Metadata.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Reflection.Primitives.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Reflection.TypeExtensions.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Reflection.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Resources.Reader.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Resources.ResourceManager.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Resources.Writer.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Runtime.CompilerServices.Unsafe.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Runtime.CompilerServices.VisualC.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Runtime.Extensions.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Runtime.Handles.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Runtime.InteropServices.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Runtime.Intrinsics.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Runtime.Loader.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Runtime.Numerics.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Runtime.Serialization.Formatters.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Runtime.Serialization.Json.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Runtime.Serialization.Primitives.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Runtime.Serialization.Xml.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Runtime.Serialization.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Runtime.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Security.AccessControl.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Security.Claims.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Security.Cryptography.Algorithms.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Security.Cryptography.Cng.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Security.Cryptography.Csp.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Security.Cryptography.Encoding.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Security.Cryptography.OpenSsl.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Security.Cryptography.Primitives.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Security.Cryptography.X509Certificates.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Security.Principal.Windows.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Security.Principal.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Security.SecureString.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Security.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.ServiceModel.Web.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.ServiceProcess.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Text.Encoding.CodePages.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Text.Encoding.Extensions.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Text.Encoding.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Text.Encodings.Web.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Text.Json.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Text.RegularExpressions.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Threading.Channels.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Threading.Overlapped.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Threading.Tasks.Dataflow.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Threading.Tasks.Extensions.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Threading.Tasks.Parallel.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Threading.Tasks.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Threading.Thread.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Threading.ThreadPool.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Threading.Timer.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Threading.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Transactions.Local.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Transactions.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.ValueTuple.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Web.HttpUtility.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Web.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Windows.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Xml.Linq.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Xml.ReaderWriter.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Xml.Serialization.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Xml.XDocument.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Xml.XPath.XDocument.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Xml.XPath.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Xml.XmlDocument.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Xml.XmlSerializer.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Xml.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\WindowsBase.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\mscorlib.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\netstandard.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Maui.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Maui.Controls.Compatibility.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Maui.Controls.Xaml.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Maui.Controls.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Maui.Essentials.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.iOS.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Private.CoreLib.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\icudt.dat
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\icudt_CJK.dat
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\icudt_EFIGS.dat
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\icudt_no_CJK.dat
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libSystem.IO.Compression.Native.a
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libSystem.IO.Compression.Native.dylib
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libSystem.Native.a
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libSystem.Native.dylib
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libSystem.Net.Security.Native.a
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libSystem.Net.Security.Native.dylib
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libSystem.Security.Cryptography.Native.Apple.a
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libSystem.Security.Cryptography.Native.Apple.dylib
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libicudata.a
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libicui18n.a
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libicuuc.a
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libmono-component-debugger-static.a
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libmono-component-debugger-stub-static.a
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libmono-component-debugger.dylib
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libmono-component-diagnostics_tracing-static.a
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libmono-component-diagnostics_tracing-stub-static.a
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libmono-component-diagnostics_tracing.dylib
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libmono-component-hot_reload-static.a
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libmono-component-hot_reload-stub-static.a
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libmono-component-hot_reload.dylib
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libmonosgen-2.0.a
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libmonosgen-2.0.dylib
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.iOS.registrar.a
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libextension-dotnet.a
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libxamarin-dotnet-debug.a
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libxamarin-dotnet-debug.dylib
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libxamarin-dotnet.a
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libxamarin-dotnet.dylib
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\build-signature\signature
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\mauiimage.inputs
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\mauifont.inputs
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\mauisplash.inputs
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\sp\MauiSplash.storyboard
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\mauisplash.stamp
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\mauiimage.stamp
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\mauifont.stamp
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\actool\_PartialAppManifest.items
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\actool\_BundleResourceWithLogicalName.items
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\actool\_ProcessedImageAssetsPath.items
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\ibtool\_BundleResourceWithLogicalName.items
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\ibtool\_ProcessedInterfaceDefinitionsPath.items
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\coremlc\_PartialAppManifest.items
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\coremlc\_BundleResourceWithLogicalName.items
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\coremlc\_ProcessedCoreMLModelsPath.items
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\_ProcessedBundleResourcesPath.items
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\_ProcessedContentPath.items
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\Library_MAUI_R53.csproj.AssemblyReference.cache
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\Library_MAUI_R53.GeneratedMSBuildEditorConfig.editorconfig
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\Library_MAUI_R53.AssemblyInfoInputs.cache
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\Library_MAUI_R53.AssemblyInfo.cs
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\Library_MAUI_R53.csproj.CoreCompileInputs.cache
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\XamlC.stamp
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\Library_MAUI_R53.csproj.CopyComplete
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\Library_MAUI_R53.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\refint\Library_MAUI_R53.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\Library_MAUI_R53.pdb
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\Library_MAUI_R53.genruntimeconfig.cache
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\ref\Library_MAUI_R53.dll
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@2x.png
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@3x.png
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@2x.png
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@3x.png
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@2x.png
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@3x.png
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@2x.png
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@3x.png
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon76x76@2x.png
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon83.5x83.5@2x.png
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appiconItunesArtwork.png
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\Contents.json
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot.png
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@2x.png
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@3x.png
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\splash.png
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\splash@2x.png
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\splash@3x.png
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\f\MauiInfo.plist
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\f\OpenSans-Regular.ttf
+G:\IDB_R52_Jasica Diaz\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\f\OpenSans-Semibold.ttf
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Library_MAUI_R53.runtimeconfig.json
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Library_MAUI_R53.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Library_MAUI_R53.pdb
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\CommunityToolkit.Mvvm.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Extensions.DependencyInjection.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Extensions.Http.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Extensions.Logging.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Extensions.Options.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Extensions.Primitives.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Maui.Graphics.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\MvvmHelpers.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Syncfusion.Licensing.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Syncfusion.Maui.Core.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.CSharp.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.VisualBasic.Core.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.VisualBasic.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Win32.Primitives.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Win32.Registry.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.AppContext.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Buffers.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Collections.Concurrent.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Collections.Immutable.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Collections.NonGeneric.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Collections.Specialized.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Collections.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.ComponentModel.Annotations.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.ComponentModel.DataAnnotations.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.ComponentModel.EventBasedAsync.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.ComponentModel.Primitives.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.ComponentModel.TypeConverter.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.ComponentModel.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Configuration.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Console.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Core.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Data.Common.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Data.DataSetExtensions.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Data.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Diagnostics.Contracts.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Diagnostics.Debug.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Diagnostics.DiagnosticSource.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Diagnostics.FileVersionInfo.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Diagnostics.Process.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Diagnostics.StackTrace.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Diagnostics.TextWriterTraceListener.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Diagnostics.Tools.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Diagnostics.TraceSource.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Diagnostics.Tracing.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Drawing.Primitives.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Drawing.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Dynamic.Runtime.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Formats.Asn1.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Globalization.Calendars.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Globalization.Extensions.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Globalization.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.IO.Compression.Brotli.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.IO.Compression.FileSystem.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.IO.Compression.ZipFile.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.IO.Compression.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.IO.FileSystem.AccessControl.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.IO.FileSystem.DriveInfo.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.IO.FileSystem.Primitives.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.IO.FileSystem.Watcher.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.IO.FileSystem.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.IO.IsolatedStorage.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.IO.MemoryMappedFiles.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.IO.Pipes.AccessControl.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.IO.Pipes.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.IO.UnmanagedMemoryStream.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.IO.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Linq.Expressions.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Linq.Parallel.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Linq.Queryable.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Linq.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Memory.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.Http.Json.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.Http.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.HttpListener.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.Mail.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.NameResolution.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.NetworkInformation.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.Ping.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.Primitives.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.Quic.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.Requests.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.Security.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.ServicePoint.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.Sockets.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.WebClient.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.WebHeaderCollection.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.WebProxy.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.WebSockets.Client.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.WebSockets.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Net.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Numerics.Vectors.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Numerics.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.ObjectModel.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Private.DataContractSerialization.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Private.Uri.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Private.Xml.Linq.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Private.Xml.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Reflection.DispatchProxy.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Reflection.Emit.ILGeneration.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Reflection.Emit.Lightweight.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Reflection.Emit.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Reflection.Extensions.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Reflection.Metadata.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Reflection.Primitives.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Reflection.TypeExtensions.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Reflection.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Resources.Reader.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Resources.ResourceManager.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Resources.Writer.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Runtime.CompilerServices.Unsafe.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Runtime.CompilerServices.VisualC.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Runtime.Extensions.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Runtime.Handles.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Runtime.InteropServices.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Runtime.Intrinsics.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Runtime.Loader.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Runtime.Numerics.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Runtime.Serialization.Formatters.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Runtime.Serialization.Json.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Runtime.Serialization.Primitives.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Runtime.Serialization.Xml.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Runtime.Serialization.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Runtime.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Security.AccessControl.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Security.Claims.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Security.Cryptography.Algorithms.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Security.Cryptography.Cng.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Security.Cryptography.Csp.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Security.Cryptography.Encoding.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Security.Cryptography.OpenSsl.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Security.Cryptography.Primitives.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Security.Cryptography.X509Certificates.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Security.Principal.Windows.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Security.Principal.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Security.SecureString.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Security.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.ServiceModel.Web.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.ServiceProcess.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Text.Encoding.CodePages.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Text.Encoding.Extensions.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Text.Encoding.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Text.Encodings.Web.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Text.Json.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Text.RegularExpressions.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Threading.Channels.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Threading.Overlapped.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Threading.Tasks.Dataflow.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Threading.Tasks.Extensions.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Threading.Tasks.Parallel.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Threading.Tasks.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Threading.Thread.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Threading.ThreadPool.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Threading.Timer.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Threading.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Transactions.Local.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Transactions.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.ValueTuple.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Web.HttpUtility.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Web.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Windows.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Xml.Linq.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Xml.ReaderWriter.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Xml.Serialization.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Xml.XDocument.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Xml.XPath.XDocument.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Xml.XPath.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Xml.XmlDocument.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Xml.XmlSerializer.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Xml.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\WindowsBase.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\mscorlib.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\netstandard.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Maui.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Maui.Controls.Compatibility.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Maui.Controls.Xaml.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Maui.Controls.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.Maui.Essentials.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.iOS.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\System.Private.CoreLib.dll
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\icudt.dat
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\icudt_CJK.dat
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\icudt_EFIGS.dat
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\icudt_no_CJK.dat
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libSystem.IO.Compression.Native.a
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libSystem.IO.Compression.Native.dylib
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libSystem.Native.a
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libSystem.Native.dylib
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libSystem.Net.Security.Native.a
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libSystem.Net.Security.Native.dylib
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libSystem.Security.Cryptography.Native.Apple.a
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libSystem.Security.Cryptography.Native.Apple.dylib
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libicudata.a
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libicui18n.a
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libicuuc.a
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libmono-component-debugger-static.a
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libmono-component-debugger-stub-static.a
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libmono-component-debugger.dylib
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libmono-component-diagnostics_tracing-static.a
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libmono-component-diagnostics_tracing-stub-static.a
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libmono-component-diagnostics_tracing.dylib
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libmono-component-hot_reload-static.a
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libmono-component-hot_reload-stub-static.a
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libmono-component-hot_reload.dylib
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libmonosgen-2.0.a
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libmonosgen-2.0.dylib
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\Microsoft.iOS.registrar.a
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libextension-dotnet.a
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libxamarin-dotnet-debug.a
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libxamarin-dotnet-debug.dylib
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libxamarin-dotnet.a
+G:\Project_Presentation\Library_MAUI_R53\bin\Debug\net6.0-ios\iossimulator-x64\libxamarin-dotnet.dylib
+G:\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\build-signature\signature
+G:\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\mauiimage.inputs
+G:\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\mauifont.inputs
+G:\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\mauisplash.inputs
+G:\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\sp\MauiSplash.storyboard
+G:\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\mauisplash.stamp
+G:\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\mauiimage.stamp
+G:\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\mauifont.stamp
+G:\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\actool\_PartialAppManifest.items
+G:\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\actool\_BundleResourceWithLogicalName.items
+G:\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\actool\_ProcessedImageAssetsPath.items
+G:\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\ibtool\_BundleResourceWithLogicalName.items
+G:\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\ibtool\_ProcessedInterfaceDefinitionsPath.items
+G:\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\coremlc\_PartialAppManifest.items
+G:\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\coremlc\_BundleResourceWithLogicalName.items
+G:\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\coremlc\_ProcessedCoreMLModelsPath.items
+G:\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\_ProcessedBundleResourcesPath.items
+G:\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\_ProcessedContentPath.items
+G:\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\Library_MAUI_R53.csproj.AssemblyReference.cache
+G:\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\Library_MAUI_R53.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\Library_MAUI_R53.AssemblyInfoInputs.cache
+G:\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\Library_MAUI_R53.AssemblyInfo.cs
+G:\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\Library_MAUI_R53.csproj.CoreCompileInputs.cache
+G:\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\XamlC.stamp
+G:\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\Library_MAUI_R53.csproj.CopyComplete
+G:\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\Library_MAUI_R53.dll
+G:\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\refint\Library_MAUI_R53.dll
+G:\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\Library_MAUI_R53.pdb
+G:\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\Library_MAUI_R53.genruntimeconfig.cache
+G:\Project_Presentation\Library_MAUI_R53\obj\Debug\net6.0-ios\iossimulator-x64\ref\Library_MAUI_R53.dll

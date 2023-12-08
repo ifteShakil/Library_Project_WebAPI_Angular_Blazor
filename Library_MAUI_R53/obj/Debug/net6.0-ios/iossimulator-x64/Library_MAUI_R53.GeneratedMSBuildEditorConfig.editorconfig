@@ -1,0 +1,53 @@
+is_global = true
+build_property.TargetFramework = net6.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Library_MAUI_R53
+build_property.ProjectDir = G:\Project_Presentation\Library_MAUI_R53\
+
+[G:/Project_Presentation/Library_MAUI_R53/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Library_MAUI_R53.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[G:/Project_Presentation/Library_MAUI_R53/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Library_MAUI_R53.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[G:/Project_Presentation/Library_MAUI_R53/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Library_MAUI_R53.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[G:/Project_Presentation/Library_MAUI_R53/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Library_MAUI_R53.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[G:/Project_Presentation/Library_MAUI_R53/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Library_MAUI_R53.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[G:/Project_Presentation/Library_MAUI_R53/Views/Desktop/BookViewPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Library_MAUI_R53.Views.Desktop.BookViewPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Desktop\BookViewPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Desktop\BookViewPage.xaml
+
+[G:/Project_Presentation/Library_MAUI_R53/Views/Desktop/PublisherViewPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Library_MAUI_R53.Views.Desktop.PublisherViewPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Desktop\PublisherViewPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Desktop\PublisherViewPage.xaml
